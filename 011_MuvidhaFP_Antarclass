@@ -1,6 +1,7 @@
 //Muvidha Fatmawati Putri (21091397011)
 
-  kelas  umum {
+  general class
+  {
 
     
     public static void main( String[] args) {
