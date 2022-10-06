@@ -1,6 +1,6 @@
 //Muvidha Fatmawati Putri (21091397011)
 
-public class Praktikum4{
+  kelas  umum {
 
     
     public static void main( String[] args) {
